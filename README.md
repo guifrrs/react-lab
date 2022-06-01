@@ -31,6 +31,8 @@ Now open [http://localhost:3000](http://localhost:3000) with your browser :)
 
 ## Commands
 
-- `dev`: runs the application on `localhost:3000`
-- `build`: create the production build
-- `test`: runs vitest to test all components
+| Command | Description                              |
+| ------- | ---------------------------------------- |
+| `dev`   | runs the application on `localhost:3000` |
+| `build` | create the production build              |
+| `test`  | runs vitest to test all components       |
